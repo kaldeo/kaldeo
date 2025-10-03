@@ -52,11 +52,5 @@
   <img src="https://count.getloli.com/@:kaldeo?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaldeo/kaldeo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaldeo/kaldeo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaldeo/kaldeo/output/pacman-contribution-graph.svg">
-</picture>
 
