@@ -17,12 +17,10 @@ Je suis un Développeur Full-Stack, Ingénieur Logiciel, Étudiant(e) en Informa
 
 
 
-<div align="center">
   # 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=kaldeo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=kaldeo&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldeo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 
 ## 🏆 GitHub Trophies
