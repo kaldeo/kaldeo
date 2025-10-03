@@ -6,9 +6,7 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaldeo.kaldeo&"  />
-</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -51,5 +49,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kaldeo/kaldeo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:kaldeo?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
