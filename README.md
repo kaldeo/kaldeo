@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un Développeur Full-Stack, Ingénieur Logiciel, Étudiant(e) en Informatique basé sur Le Havre en Normandie. Mon approche est centrée sur l'apprentissage continu et l'application des meilleures pratiques pour livrer un code propre et maintenable.<br><br>Mon focus actuel : L'amélioration des performances backend avec Node.js, Python/Django, Go et la maîtrise des architectures Microservices, Serverless.<br>J'expérimente avec : WebAssembly, Rust, l'IA générative.<br>Je suis ouvert à : Des collaborations sur des projets **open source** stimulants ou des opportunités dans n'importe quel domaine.<br>
+Je suis un Développeur Full-Stack, Ingénieur Logiciel, Étudiant(e) en Informatique basé sur Le Havre en Normandie. Mon approche est centrée sur l'apprentissage continu et l'application des meilleures pratiques pour livrer un code propre et maintenable.<br><br>Mon focus actuel : L'amélioration des performances backend avec Node.js, Python.<br>J'expérimente avec des projets sur des caméras de marque Basler avec un modèle d'IA (YOLO) dans le but de faire de la détection pour une chaîne de production.<br>Je suis ouvert à : Des collaborations sur des projets **open source** stimulants ou des opportunités dans n'importe quel domaine.<br>
 
 
 
