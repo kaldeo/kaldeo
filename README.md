@@ -1,9 +1,18 @@
 # 💫 About Me:
-Je suis un Développeur Full-Stack, Ingénieur Logiciel, Étudiant(e) en Informatique basé sur Le Havre en Normandie. Mon approche est centrée sur l'apprentissage continu et l'application des meilleures pratiques pour livrer un code propre et maintenable.<br><br>Mon focus actuel : L'amélioration des performances backend avec Node.js, Python.<br>J'expérimente avec des projets sur des caméras de marque Basler avec un modèle d'IA (YOLO) dans le but de faire de la détection pour une chaîne de production.<br>Je suis ouvert à : Des collaborations sur des projets **open source** stimulants ou des opportunités dans n'importe quel domaine.<br>
+Ingénieur logiciel Full Stack axé sur la performance des API. Mon cœur de métier : les services back-end Node.js/Express pour des applications riches en fonctionnalités.
+
+**- API Design & Implementation :** Conception, développement et documentation d'API RESTful scalables et sécurisées.
+
+**- Technologies Core :** Maîtrise de Node.js et du framework Express.js pour des services rapides et efficaces.
+
+**- Sécurité :** Mise en place de mécanismes d'authentification (JWT, OAuth), gestion des rôles et sécurisation contre les vulnérabilités courantes.
+
+**- Bases de Données :** Expérience avec les bases de données SQL (ex. PostgreSQL, MySQL).
 
 
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/563314947564634152) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabin.frvl) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabin-freval-64b196293)
